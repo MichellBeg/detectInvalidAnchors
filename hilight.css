@@ -1,4 +1,7 @@
 .invalid-href {
-    color: red;
-    text-decoration: line-through;
+    border-top-left-radius: 50px;
+    border-top-right-radius: 50px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background: linear-gradient(transparent 0%, #ffff66 60%);
 }
