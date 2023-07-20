@@ -5,3 +5,5 @@ This is a chrome extension that detects and highlights invalid a tags on the pag
 ## Features
 - Add a feature to display a list of invalid a tags in a popup.
 - Add a whitelist feature that does not highlight elements that have been added to the whitelist.
+- Add a feature to change the search conditions for a tags from the popup.
+- Add an on/off feature.
